@@ -1,5 +1,8 @@
 _repo: The-Silver-Stallion-A-Comedy-of-Redemption_67744
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67744-h/images/cover.jpg
 creator:
   author:
     agent_name: Cabell, James Branch
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/166
     wikipedia: https://en.wikipedia.org/wiki/James_Branch_Cabell
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67744#The-Silver-Stallion-A-Comedy-of-Redemption
 gutenberg_issued: '2022-03-31'
 identifiers:
   gutenberg: '67744'
